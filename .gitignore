@@ -64,3 +64,7 @@ backend/node_modules/tippler_dns
 node_modules/tippler_dns
 backend/node_modules/watchdog
 node_modules/watchdog
+backend/node_modules/.git
+node_modules/.git
+backend/node_modules/dns
+node_modules/dns
