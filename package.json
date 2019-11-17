@@ -1,24 +1,21 @@
 {
-  "name": "tippler",
-  "version": "1.0.0",
-  "description": "An MVVM framework for the client side",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/harrypatrick442/tippler.git"
-  },
-  "keywords": [
-    "mvvm",
-    "javascript",
-    "binding"
-  ],
-  "author": "Harry James Patrick",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/harrypatrick442/tippler/issues"
-  },
-  "homepage": "https://github.com/harrypatrick442/tippler#readme"
+	"name": "tippler",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/harrypatrick442/tippler.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/harrypatrick442/tippler/issues"
+	},
+	"homepage": "https://github.com/harrypatrick442/tippler#readme"
 }
